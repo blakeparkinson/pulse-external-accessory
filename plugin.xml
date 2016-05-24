@@ -14,13 +14,12 @@
         <engine name="cordova" version=">=3.0.0" />
         </engines>
 
-    </platform>
-    <platform name="ios">
+        <platform name="ios">
 
-        <config-file target="*-Info.plist" parent="UISupportedExternalAccessoryProtocols">
-            <array>
-                <string>com.alpinelabs.pulse</string>
-            </array>
-        </config-file>
-    </platform>
-</plugin>
+            <config-file target="*-Info.plist" parent="UISupportedExternalAccessoryProtocols">
+                <array>
+                    <string>com.alpinelabs.pulse</string>
+                </array>
+            </config-file>
+        </platform>
+    </plugin>
