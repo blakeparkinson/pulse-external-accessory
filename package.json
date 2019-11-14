@@ -1,0 +1,26 @@
+{
+  "name": "pulse-external-accessory",
+  "version": "0.1.9",
+  "description": "Cordova plugin to return the pulse externals",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blakeparkinson/pulse-external-accessory.git"
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "app",
+    "version",
+    "appversion",
+    "plugin"
+  ],
+  "author": "blakeparkinson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blakeparkinson/pulse-external-accessory/issues"
+  },
+  "homepage": "https://github.com/blakeparkinson/pulse-external-accessory#readme"
+}
